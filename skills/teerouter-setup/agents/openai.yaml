@@ -1,0 +1,4 @@
+interface:
+  display_name: "TeeRouter Client Setup"
+  short_description: "Install and configure TeeProxy or TeeMerchant"
+  default_prompt: "Use $teerouter-setup to download and configure the TeeRouter client for my role and connect my agent."
